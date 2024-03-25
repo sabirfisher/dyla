@@ -22,3 +22,7 @@ How You Can Help
     Any code snippets, GitHub repos, or resources that you think might help bridge the gap between downloading content with Instaloader and analyzing it with YOLOv5.
 
 I'm all ears for suggestions, guidance, or even potential collaboration opportunities. Let's make this idea a reality!
+
+
+#Contact me on discord @
+##cxsmoswrld 
