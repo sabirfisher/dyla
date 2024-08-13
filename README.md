@@ -24,4 +24,3 @@ How You Can Help
 I'm all ears for suggestions, guidance, or even potential collaboration opportunities. Let's make this idea a reality!
 
 
-# Contact me on discord @cxsmoswrld 
